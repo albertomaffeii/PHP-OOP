@@ -40,11 +40,11 @@ Benvenuti nel repository "PHP-OOP"! Qui troverai una collezione di piccoli esemp
 
 ## Obiettivo
 
-L'obiettivo di questo repository è fornire una libreria di consultazione gratuita per sviluppatori principianti ed esperti che desiderano imparare o trovare soluzioni predefinite in PHP utilizzando la programmazione orientata agli oggetti.
+L'obiettivo di questo repository ï¿½ fornire una libreria di consultazione gratuita per sviluppatori principianti ed esperti che desiderano imparare o trovare soluzioni predefinite in PHP utilizzando la programmazione orientata agli oggetti.
 
 ## Come contribuire
 
-Se desideri contribuire a questo repository, sentiti libero di inviare i tuoi esempi di codice o classi che ritieni utili per la comunità. Ecco alcune linee guida per contribuire:
+Se desideri contribuire a questo repository, sentiti libero di inviare i tuoi esempi di codice o classi che ritieni utili per la comunitï¿½. Ecco alcune linee guida per contribuire:
 
 1. Fai un fork di questo repository e clonalo sul tuo ambiente locale.
 2. Aggiungi i tuoi esempi di codice o classi nelle rispettive directory, seguendo la struttura esistente.
@@ -61,7 +61,7 @@ Apprezziamo le tue contribuzioni in anticipo!
 
 ## Licenza
 
-Questo repository è concesso in licenza secondo i termini della [Licenza MIT](LICENSE). Sentiti libero di utilizzare il codice fornito qui, ma ricorda di rispettare i termini della licenza.
+Questo repository ï¿½ concesso in licenza secondo i termini della [Licenza MIT](LICENSE). Sentiti libero di utilizzare il codice fornito qui, ma ricorda di rispettare i termini della licenza.
 
 ## Contatti
 
@@ -72,34 +72,34 @@ Se hai domande, suggerimenti o hai bisogno di supporto, non esitare a contattare
 
 # PHP-OOP - PT-BR
 
-Bem-vindo ao repositório "PHP-OOP"! Aqui você encontrará uma coleção de pequenos códigos de exemplo e classes em PHP que demonstram conceitos de Programação Orientada a Objetos (POO).
+Bem-vindo ao repositï¿½rio "PHP-OOP"! Aqui vocï¿½ encontrarï¿½ uma coleï¿½ï¿½o de pequenos cï¿½digos de exemplo e classes em PHP que demonstram conceitos de Programaï¿½ï¿½o Orientada a Objetos (POO).
 
 ## Objetivo
 
-O objetivo deste repositório é fornecer uma biblioteca de consulta gratuita para desenvolvedores iniciantes e experientes que desejam aprender ou encontrar soluções prontas em PHP orientado a objetos.
+O objetivo deste repositï¿½rio ï¿½ fornecer uma biblioteca de consulta gratuita para desenvolvedores iniciantes e experientes que desejam aprender ou encontrar soluï¿½ï¿½es prontas em PHP orientado a objetos.
 
 ## Como contribuir
 
-Se você deseja contribuir com este repositório, sinta-se à vontade para enviar seus próprios códigos de exemplo ou classes que considera úteis para a comunidade. Aqui estão algumas orientações para contribuição:
+Se vocï¿½ deseja contribuir com este repositï¿½rio, sinta-se ï¿½ vontade para enviar seus prï¿½prios cï¿½digos de exemplo ou classes que considera ï¿½teis para a comunidade. Aqui estï¿½o algumas orientaï¿½ï¿½es para contribuiï¿½ï¿½o:
 
-1. Faça um fork deste repositório e clone-o para o seu ambiente local.
-2. Adicione seus códigos de exemplo ou classes em seus respectivos diretórios, de acordo com a estrutura já existente.
-3. Certifique-se de fornecer uma breve descrição e exemplos de uso para cada código ou classe adicionada.
-4. Faça um commit das suas alterações e envie um pull request para revisão.
-5. Após revisão, suas contribuições serão adicionadas ao repositório principal.
+1. Faï¿½a um fork deste repositï¿½rio e clone-o para o seu ambiente local.
+2. Adicione seus cï¿½digos de exemplo ou classes em seus respectivos diretï¿½rios, de acordo com a estrutura jï¿½ existente.
+3. Certifique-se de fornecer uma breve descriï¿½ï¿½o e exemplos de uso para cada cï¿½digo ou classe adicionada.
+4. Faï¿½a um commit das suas alteraï¿½ï¿½es e envie um pull request para revisï¿½o.
+5. Apï¿½s revisï¿½o, suas contribuiï¿½ï¿½es serï¿½o adicionadas ao repositï¿½rio principal.
 
-Agradecemos antecipadamente por suas contribuições!
+Agradecemos antecipadamente por suas contribuiï¿½ï¿½es!
 
-## Diretórios
+## Diretï¿½rios
 
-- **Classes**: Este diretório contém classes em PHP que demonstram a implementação de diferentes conceitos da Programação Orientada a Objetos.
-- **Exemplos**: Neste diretório, você encontrará pequenos códigos de exemplo que ilustram casos comuns de uso da POO em PHP.
+- **Classes**: Este diretï¿½rio contï¿½m classes em PHP que demonstram a implementaï¿½ï¿½o de diferentes conceitos da Programaï¿½ï¿½o Orientada a Objetos.
+- **Exemplos**: Neste diretï¿½rio, vocï¿½ encontrarï¿½ pequenos cï¿½digos de exemplo que ilustram casos comuns de uso da POO em PHP.
 
-## Licença
+## Licenï¿½a
 
-Este repositório está sob a Licença [MIT](LICENSE). Sinta-se à vontade para usar o código fornecido aqui, mas lembre-se de respeitar os termos da licença.
+Este repositï¿½rio estï¿½ sob a Licenï¿½a [MIT](LICENSE). Sinta-se ï¿½ vontade para usar o cï¿½digo fornecido aqui, mas lembre-se de respeitar os termos da licenï¿½a.
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato com o mantenedor deste repositório pelo e-mail albertomaffeii@gmail.com 
+Se vocÃª tiver alguma dÃºvida, sugestÃ£o ou precisar de suporte, sinta-se Ã  vontade para entrar em contato com o mantenedor deste repositÃ³rio. (al albertomaffeii@gmail.com) 
 
