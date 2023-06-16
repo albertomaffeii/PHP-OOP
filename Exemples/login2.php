@@ -56,3 +56,5 @@ $logar->Logar();
 
 //Use get() like this
 echo"<br>The value of the email field is = " . $logar->getEmail() . " for " . $logar->getNome();
+
+?>
